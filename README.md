@@ -16,5 +16,5 @@ First line of input will consist of a single integer T denoting number of test-c
 OUTPUT
 
 For each test case, print the facing seat-number and the seat-type, separated by a single space in a new line.
-<a href="https://github.com/radhamgr/code_daily_challenge/blob/master/seating%20arrangements.py"Solution</a></p>
+<a href="https://github.com/radhamgr/code_daily_challenge/blob/master/seating%20arrangements.py"Solution</a>
 ******************************************************************************************************************************************
