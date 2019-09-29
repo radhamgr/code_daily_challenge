@@ -2,7 +2,7 @@
 Problem 1
 
 Akash and Vishal are quite fond of travelling. They mostly travel by railways. They were travelling in a train one day and 
-they got interested in the seating arrangement of their compartment. The compartment looked something like
+they got interested in the seating arrangement of their compartment. The compartment looked something like:(train seats photo)
 So they got interested to know the seat number facing them and the seat type facing them. The seats are denoted as follows :
 Window Seat : WS
 Middle Seat : MS
