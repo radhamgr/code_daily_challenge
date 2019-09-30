@@ -20,3 +20,7 @@ For each test case, print the facing seat-number and the seat-type, separated by
 
 <a href="https://github.com/radhamgr/code_daily_challenge/blob/master/seating%20arrangements.py">Solution</a>
 ******************************************************************************************************************************************
+Problem 1
+
+Rotate a matrix of N * N by 90 degree in clockwise direction without using any extra space.
+<a href="https://github.com/radhamgr/code_daily_challenge/blob/master/seating%20arrangements.py">Solution</a>
