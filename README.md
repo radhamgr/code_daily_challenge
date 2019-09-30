@@ -22,6 +22,8 @@ For each test case, print the facing seat-number and the seat-type, separated by
 ******************************************************************************************************************************************
 Problem 1
 
-Rotate a matrix of N * N by 90 degree in clockwise direction without using any extra space.
+Rotate a matrix of N * N by 90 degree in clockwise/anti-clockwise direction without using any extra space.
+The process will remain the same for both direction with small changes in index values to given matrix.
+
 
 <a href="https://github.com/radhamgr/code_daily_challenge/blob/master/clockwise_rotation.py">Solution</a>
