@@ -28,7 +28,7 @@ The process will remain the same for both direction with small changes in index 
 
 <a href="https://github.com/radhamgr/code_daily_challenge/blob/master/clockwise_rotation.py">Solution</a>
 ******************************************************************************************************************************************
-Problem 2
+Problem 3
 
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 For example, if our input was [10,3,5,6,2] the expected output would be[180, 600, 360, 300, 900]
