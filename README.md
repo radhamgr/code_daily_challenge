@@ -32,3 +32,17 @@ Problem 3
 
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 For example, if our input was [10,3,5,6,2] the expected output would be[180, 600, 360, 300, 900]
+******************************************************************************************************************************************
+Problem 4
+Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
+Sample Input
+
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 2 4 4 0
+0 0 0 2 0 0
+0 0 1 2 4 0
+Sample Output
+
+19
