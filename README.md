@@ -37,7 +37,7 @@ Problem 4
 Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
 Sample Input
 
-1 1 1 0 0 0\n
+1 1 1 0 0 0
 0 1 0 0 0 0
 1 1 1 0 0 0
 0 0 2 4 4 0
@@ -46,3 +46,4 @@ Sample Input
 Sample Output
 
 19
+******************************************************************************************************************************************
